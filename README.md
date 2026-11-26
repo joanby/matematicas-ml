@@ -36,11 +36,10 @@ Para adaptarse a su modo preferido de aprendizaje, el contenido está ahora disp
     * [Probability and Stats videos](https://learning.oreilly.com/videos/probability-and-statistics/9780137566273/) published in May 2021 ([free hour-long lesson](https://youtu.be/uJcGj-k50iE))
     * [Computer Science videos](https://learning.oreilly.com/videos/data-structures-algorithms/9780137644889/) published in Jun 2021 ([free hour-long lesson](https://youtu.be/yfKkMdndY-E))
     * (For convenience, this publisher compiled all 28 hours of the above four video series into a single playlist [here](https://learning.oreilly.com/videos/-/9780137903245/).)
-* **Udemy**: All the Linear Algebra and Calculus content has been [live in a *Mathematical Foundations of ML* course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Sep 2021 (free overview video [here](https://youtu.be/qhLo19EIA4g)). While this course stands alone as a complete introduction to the math subjects, Subjects 5-8 will eventually be added as free bonus material. 
 * **Open Data Science Conference**: The entire series was taught live online from Dec 2020 to Jun 2021. On-demand recordings of all these trainings are now available in the [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp).
 * **Book**: A book deal with Pearson is in place; eventually I'll have bandwidth to work on the manuscript and pre-release chapter drafts will be available via oreilly.com.
 
-*(Tenga en cuenta que, si bien YouTube contiene el 100% del contenido enseñado, las opciones de pago -por ejemplo, Udemy, O'Reilly y ODSC- contienen soluciones completas para los ejercicios que no están disponibles en YouTube. Algunas de las opciones de pago también incluyen funciones exclusivas y específicas de la plataforma, como pruebas interactivas, «hojas de trucos» y la concesión de un certificado por haber completado con éxito el curso)*.
+*(Tenga en cuenta que, si bien YouTube contiene el 100% del contenido enseñado, las opciones de pago -por ejemplo, O'Reilly y ODSC- contienen soluciones completas para los ejercicios que no están disponibles en YouTube. Algunas de las opciones de pago también incluyen funciones exclusivas y específicas de la plataforma, como pruebas interactivas, «hojas de trucos» y la concesión de un certificado por haber completado con éxito el curso)*.
 
 ### Push Notifications
 
